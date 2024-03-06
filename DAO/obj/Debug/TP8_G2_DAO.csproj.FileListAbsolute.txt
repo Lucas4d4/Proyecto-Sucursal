@@ -1,0 +1,9 @@
+C:\Users\Usuario\Documents\Programacion3\Unidad Final\Version 6\TP8_GRUPO_2-master\DAO\bin\Debug\DAO.dll
+C:\Users\Usuario\Documents\Programacion3\Unidad Final\Version 6\TP8_GRUPO_2-master\DAO\bin\Debug\DAO.pdb
+C:\Users\Usuario\Documents\Programacion3\Unidad Final\Version 6\TP8_GRUPO_2-master\DAO\bin\Debug\Entidades.dll
+C:\Users\Usuario\Documents\Programacion3\Unidad Final\Version 6\TP8_GRUPO_2-master\DAO\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Documents\Programacion3\Unidad Final\Version 6\TP8_GRUPO_2-master\DAO\obj\Debug\TP8_G2_DAO.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Programacion3\Unidad Final\Version 6\TP8_GRUPO_2-master\DAO\obj\Debug\TP8_G2_DAO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programacion3\Unidad Final\Version 6\TP8_GRUPO_2-master\DAO\obj\Debug\TP8_G2_DAO.csproj.CopyComplete
+C:\Users\Usuario\Documents\Programacion3\Unidad Final\Version 6\TP8_GRUPO_2-master\DAO\obj\Debug\DAO.dll
+C:\Users\Usuario\Documents\Programacion3\Unidad Final\Version 6\TP8_GRUPO_2-master\DAO\obj\Debug\DAO.pdb

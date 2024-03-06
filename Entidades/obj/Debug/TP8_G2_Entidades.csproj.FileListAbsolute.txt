@@ -1,0 +1,6 @@
+C:\Users\Usuario\Documents\Programacion3\Unidad Final\Version 6\TP8_GRUPO_2-master\Entidades\bin\Debug\Entidades.dll
+C:\Users\Usuario\Documents\Programacion3\Unidad Final\Version 6\TP8_GRUPO_2-master\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Documents\Programacion3\Unidad Final\Version 6\TP8_GRUPO_2-master\Entidades\obj\Debug\TP8_G2_Entidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Programacion3\Unidad Final\Version 6\TP8_GRUPO_2-master\Entidades\obj\Debug\TP8_G2_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programacion3\Unidad Final\Version 6\TP8_GRUPO_2-master\Entidades\obj\Debug\Entidades.dll
+C:\Users\Usuario\Documents\Programacion3\Unidad Final\Version 6\TP8_GRUPO_2-master\Entidades\obj\Debug\Entidades.pdb
