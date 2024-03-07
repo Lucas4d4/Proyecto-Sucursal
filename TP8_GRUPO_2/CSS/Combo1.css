@@ -1,0 +1,216 @@
+﻿body {
+background-color:mediumseagreen;
+}
+
+.ulMod{
+    background-color:white;
+    color:mediumseagreen;
+    font-size:24px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:600;
+    border-radius:3px;
+    padding:9px 9px 9px 9px;
+    font-style:normal;
+    text-decoration-line:none;
+    transition-duration:0.6s;
+}
+
+.ulMod:hover{
+    background-color:lightgrey;
+}
+
+.tableMod{
+    position:absolute;
+    top:5%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    width:80%;
+}
+
+.tdMod{
+    padding:15px;
+    text-align:center;
+}
+
+.labelMod{
+    position:absolute;
+    top:20%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    font-size:30px;
+    text-decoration-line:underline;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:white;
+    font-weight:600;
+}
+
+.tableMod2{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    width:70%;
+}
+
+.labelMod2{
+    color:white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:20px;
+    font-weight:600;
+}
+
+.RequiredError {
+    color:gold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+
+
+.th{
+    border-style:solid;
+    border-color:black;
+}
+
+
+
+
+.tdMod2 {
+    padding-top:12px;
+    padding-bottom:12px;
+}
+
+
+
+.textbox1{
+    background-color:azure;
+    border-radius:6px;
+    padding:6px 3px 6px 3px;
+    font-size:16px;
+    transition-duration:0.5s;
+}
+
+
+.textbox1:hover{
+    background-color:lightgray;
+}
+
+.textbox1:focus{
+    background-color:lightgray;
+}
+
+.tableMod3{
+    position:absolute;
+    top:80%;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+
+.tdMod3{
+    text-align:center;
+}
+
+.btnMod {
+    background-color: dodgerblue;
+    color: white;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition-duration: 0.5s;
+    padding: 9px 9px 9px 9px;
+    cursor:pointer;
+    border-radius:3px;
+    border-style:none;
+}
+
+.btnMod:hover{
+    background-color:royalblue;
+}
+
+
+.btnEliminar {
+    background-color: red;
+    color: white;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition-duration: 0.5s;
+    padding: 6px 9px 6px 9px;
+    cursor: pointer;
+    border-radius: 3px;
+    border-style: none;
+}
+
+    .btnEliminar:hover {
+        background-color:darkred;
+    }
+
+
+.labelMod3{
+    font-size:18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tableMod4{
+    position:absolute;
+    top:30%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    width:60%;
+}
+
+.tableMod5{
+    position:absolute;
+    top:65%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    background-color:azure;
+    color:black;
+    border-radius:6px;
+    font-size:16px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.labelMod4{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:18px;
+}
+
+.validationMod {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+
+
+.tableMod6 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width:50%;
+}
+
+.validationMod2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color:gold;
+    font-size:18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.labelMod5 {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color:gold;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
